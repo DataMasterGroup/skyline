@@ -1,0 +1,9 @@
+syntax = "proto3";
+package skyline.skyline.v1beta1;
+
+option go_package = "github.com/DataMasterGroup/skyline/x/skyline/types";
+
+// GenesisState defines the capability module's genesis state.
+message GenesisState {
+}
+
